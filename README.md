@@ -3,4 +3,4 @@ Max, also known as Max/MSP/Jitter, is a visual programming language for music an
 
 This repository contains some of my Lab exercises I submitted during the Music Programming course
 
-![Screenshot](/Lab 1/maxmsp screenshot.png "Screenshot")
+![Screenshot](/Lab 1/maxmspscreenshot.png "Screenshot")
